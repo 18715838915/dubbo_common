@@ -1,6 +1,9 @@
 # Compiled class file
 *.class
-
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
 # Log file
 *.log
 
